@@ -1,0 +1,4 @@
+1 ; Tarbes ; 14.0
+1 ; Lyon ; 20.0
+3 ; Tarbes ; 14.0
+2 ; Toulouse ; 17.0
